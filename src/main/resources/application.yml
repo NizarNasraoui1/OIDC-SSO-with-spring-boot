@@ -4,10 +4,6 @@ spring:
       client:
         registration:
           google :
-            clientId: <ADD CLIENT ID>
-            clientSecret: <ADD CLIENT SECRET>
+            clientId: 311671349138-58t53qman629a2nu33tst3f9urq1r8c5.apps.googleusercontent.com
+            clientSecret: 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
 
-
-
-server:
-  port: 9191
